@@ -9,11 +9,6 @@ zeronze/zeronze est un dépôt ✨ spécial ✨ car son fichier `README.md` (ce 
 Vous pouvez cliquer sur le lien "Preview" pour voir vos modifications.
 --->
 
-### À propos de moi
-
-- Date de naissance : 11/12/1992
-- Lieu : Noyal Chatillon sur Seiche, France
-
 ### Expérience
 
 - **Stage chez Benoit Gambier – EI** (juillet 2023–septembre 2023)
